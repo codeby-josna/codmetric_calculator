@@ -28,4 +28,3 @@ python calculator.py
 
 ## 👩‍💻 Author
 JOSNA JOHN 
-(B.Tech CSE Student)
