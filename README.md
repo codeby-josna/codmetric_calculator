@@ -27,4 +27,4 @@ python calculator.py
 - Tkinter (Standard Python GUI Library)
 
 ## 👩‍💻 Author
-JOSNA JOHN 
+Josna John
