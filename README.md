@@ -12,10 +12,6 @@ It performs basic arithmetic operations such as addition, subtraction, multiplic
 - Error handling (e.g., division by zero)
 - Clear button to reset input
 
-## 📸 Preview
-
-<img src="screenshot.png" alt="Calculator GUI Screenshot" width="300"/>
-
 ## 🚀 How to Run
 
 1. Make sure you have **Python 3** installed.
